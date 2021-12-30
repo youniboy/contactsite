@@ -1,0 +1,102 @@
+body{
+  margin:0;
+}
+
+.header1{
+  background-color: #B4C6A6;
+  width: 100%;
+  height: 300px;
+  position: absolute;
+}
+
+.imgyou{
+  position: absolute;
+  top: 50px;
+  left: 250px;
+  height: 200px;
+  width: 200px;
+}
+
+.nametag{
+  color: #66806A;
+  font-family: "Copperplate", "Papyrus", fantasy;
+  top: 60px;
+  left: 520px;
+  position:absolute;
+  font-size: 50px;
+}
+
+.worktag{
+  color: #FFF1AF;
+  font-family: fantasy;
+  top: 120px;
+  left: 520px;
+  position: absolute;
+  font-size: 30px;
+}
+
+.header2{
+  background-color: #FFC286;
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  top:300px;
+}
+
+.contact{
+  color: #66806A;
+  font-size: 50px;
+  font-family: fantasy;
+  top: 0px;
+  left:500px;
+  position: absolute;
+}
+
+.facebook{
+  position: absolute;
+  top: 150px;
+  left: 300px;
+}
+
+.instagram{
+  position: absolute;
+  top: 150px;
+  left: 500px;
+}
+
+.twitter{
+  position: absolute;
+  top: 150px;
+  left: 700px;
+}
+
+.gmail{
+  position: absolute;
+  top: 150px;
+  left: 900px;
+}
+
+.ender1{
+  position:absolute;
+  top:600px;
+  width:100%;
+  height: 300px;
+  background-color: #FFF1AF;
+  overflow: auto;
+}
+
+.ending{
+  position: absolute;
+  font-size: 25px;
+  font-family: fantasy;
+  left: 450px;
+  top: 50px;
+}
+
+.copyrig{
+  position: absolute;
+  font-size: 25px;
+  font-family:fantasy;
+  left: 540px;
+  top: 100px;
+}
